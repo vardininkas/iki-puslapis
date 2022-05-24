@@ -1,0 +1,38 @@
+.ikilogo{
+    max-width: 50px;
+}
+header{
+    display: flex;
+    -ms-flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+div a{
+    padding-right: 15px;
+}
+main{
+    background-image: url(./images/IKI-Breslauja_1-1200x805.jpg);
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+section{
+    width: 80%;
+    display: block;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    
+}
+section p img{
+    width: 40%;
+    float: left;
+    padding: 5px;
+    max-width: 100px;
+}
+.footertext{
+    text-align: center;
+}
